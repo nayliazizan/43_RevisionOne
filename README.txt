@@ -6,3 +6,4 @@ this repository consist my revision on javascript language. feel free to see my 
 practices:
 * Flatten Array
 * Lucian's Luscious Lasagna
+* Freelancer Rates
