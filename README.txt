@@ -7,3 +7,7 @@ practices:
 * Flatten Array
 * Lucian's Luscious Lasagna
 * Freelancer Rates
+* Elyses Enchantments
+* Elyses Analytic Enchantments
+* Elyses Transformative Enchantments (kinda wracking my brain)
+
