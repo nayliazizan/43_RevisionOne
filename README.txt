@@ -10,4 +10,6 @@ practices:
 * Elyses Enchantments
 * Elyses Analytic Enchantments
 * Elyses Transformative Enchantments (kinda wracking my brain)
+* Two Fer
+* Resistor Color
 
