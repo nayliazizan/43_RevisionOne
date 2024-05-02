@@ -13,4 +13,6 @@ practices:
 * Two Fer
 * Resistor Color
 * Resistor Color Duo
+* Gigasecond
+* Space Age
 
