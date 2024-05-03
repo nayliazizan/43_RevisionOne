@@ -15,4 +15,8 @@ practices:
 * Resistor Color Duo
 * Gigasecond
 * Space Age
+* Pangram
+* RNA Transcription
+* Reverse String
+* Vehicle Purchase
 
