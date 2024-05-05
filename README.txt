@@ -20,4 +20,7 @@ practices:
 * Reverse String
 * Vehicle Purchase
 * Pizza Order
+* Poetry Club Door Policy
+* Elyses Looping Enchantments
+
 
