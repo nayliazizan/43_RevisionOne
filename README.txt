@@ -22,5 +22,6 @@ practices:
 * Pizza Order
 * Poetry Club Door Policy
 * Elyses Looping Enchantments
-
-
+* Elyses Destructured Enchantments
+* Annalyn's Infiltration
+* Bird Watcher
