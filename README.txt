@@ -28,3 +28,5 @@ practices:
 * Mixed Juices
 * Lucky Numbers
 * Amusement Park
+* Fruit Picker
+
