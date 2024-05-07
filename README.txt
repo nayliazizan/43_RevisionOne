@@ -26,3 +26,4 @@ practices:
 * Annalyn's Infiltration
 * Bird Watcher
 * Mixed Juices
+* Lucky Numbers
