@@ -27,3 +27,4 @@ practices:
 * Bird Watcher
 * Mixed Juices
 * Lucky Numbers
+* Amusement Park
