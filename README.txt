@@ -29,7 +29,5 @@ practices:
 * Lucky Numbers
 * Amusement Park
 * Fruit Picker
-* Promises Exercise 1 & 2 (from www.codingame.com)
-* Promises Exercise 3 & 4 (from www.crocoder.dev)
-* Promises Exercise 5 (from www.learn-js.org)
+
 
